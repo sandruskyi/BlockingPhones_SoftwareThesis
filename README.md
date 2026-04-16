@@ -1,1 +1,31 @@
-# BlockingPhones_SoftwareThesis
+# DISEÑO Y DESARROLLO DE UNA APLICACIÓN ANDROID PARA EL BLOQUEO DE DISPOSITIVOS MÓVILES
+
+UNIVERSIDAD REY JUAN CARLOS 
+
+ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA INFORMÁTICA 
+
+GRADO EN INGERNIERÍA DEL SOFTWARE
+
+Curso Académico 2019/2020
+
+Trabajo Fin de Grado
+
+DISEÑO Y DESARROLLO DE UNA APLICACIÓN ANDROID PARA EL BLOQUEO DE DISPOSITIVOS MÓVILES.
+
+https://blockandchill.wordpress.com/ (Yes, it’s a WordPress site. I was too drained to build a webpage from scratch, and let’s be honest, that wasn't the core of the project anyway! :-) ) 
+
+Videos of the app: https://blockandchill.wordpress.com/2020/05/22/videos-de-funcionamiento-de-la-aplicacion/ 
+
+# DESIGN AND DEVELOPMENT OF AN ANDROID APPLICATION FOR MOBILE DEVICE LOCKING
+
+REY JUAN CARLOS UNIVERSITY
+
+SCHOOL OF COMPUTER ENGINEERING
+
+HONOURS DEGREE IN SOFTWARE ENGINEERING
+
+Academic Year 2019/2020
+
+Undergraduate Thesis
+
+DESIGN AND DEVELOPMENT OF AN ANDROID APPLICATION FOR MOBILE DEVICE BLOCKING

@@ -16,7 +16,7 @@ https://blockandchill.wordpress.com/ (Yes, it’s a WordPress site. I was too dr
 
 Videos of the app: https://blockandchill.wordpress.com/2020/05/22/videos-de-funcionamiento-de-la-aplicacion/ 
 
-# DESIGN AND DEVELOPMENT OF AN ANDROID APPLICATION FOR MOBILE DEVICE LOCKING
+# DESIGN AND DEVELOPMENT OF AN ANDROID APPLICATION FOR MOBILE DEVICE BLOCKING
 
 REY JUAN CARLOS UNIVERSITY
 
